@@ -1,0 +1,6 @@
+[submodule "Repositorio_Open_Source"]
+	path = Repositorio_Open_Source
+	url = https://github.com/anacschmitz/desafio_Repo_Open_Source.git
+[submodule "Desafio_Banco"]
+	path = Desafio_Banco
+	url = https://github.com/anacschmitz/Banco_DIO.git
