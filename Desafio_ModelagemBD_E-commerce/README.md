@@ -23,7 +23,7 @@
   - Visual Studio Code
     
 ## Diagrama Relacional: 
-![GitHub Logo](https://github.com/anacschmitz/Bootcamp_CienciasDeDados/blob/main/Desafio_ModelagemBD_E-commerce/Modelagem_e_commerce.png)
+![GitHub Logo](https://github.com/anacschmitz/Bootcamp_CienciasDeDados/blob/main/Desafio_ModelagemBD_E-commerce/modelagem/Modelagem_e_commerce.png)
 
 # Criação Lógica do Banco de dados: 
 
